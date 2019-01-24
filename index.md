@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome to Insta Followers
+Instagram is a photo and video-sharing social networking service owned by Facebook, Inc. It was created by Kevin Systrom and Mike Krieger, and launched in October 2010 exclusively on iOS. ... Users can "like" photos, and follow other users to add their content to a feed.
 
 You can use the [editor on GitHub](https://github.com/deepak170/igfamous.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 

@@ -1,8 +1,8 @@
 # Welcome to Insta Followers
 
-# DEEPAK NAGAR
-## DEEPAK NAGAR
-### DEEPAK NAGAR
+
+
+
 **Instagram is a photo and video-sha
  social networking service owned by Facebook, Inc. It was created by Kevin Systrom and Mike Krieger, and launched in October 2010 exclusively on iOS. ... Users can "like" photos, and follow other users to add their content to a feed.
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
@@ -11,8 +11,17 @@ You can use the [editor on GitHub](https://github.com/deepak170/igfamous.github.
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
+<link href="https://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet"> I just started CPA AND YOUTUBE METHOD AND SEEING SMALL RESULT BUT THE PROBLEM NOW IS THAT THE YOUTUBE BANS OR SUSPENDS MY VIDEOS.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Now, wish to try different strategy, of course leveraging the possible suggestions from this helpful forum.
+
+My goal:
+to upload as many videos as i can, i believe to be successful doing this method, more videos should be uploaded, so it is a numbers games.
+
+My question:
+Please, what if i upload the similar video but changing either the background sound, or the thumbnail, or add few words towards the end using my video editing software, would it help to make it look different video in the eyes of YouTube? 
+
+
 
 ```markdown
 Syntax highlighted code block
